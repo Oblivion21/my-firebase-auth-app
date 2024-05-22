@@ -4,7 +4,7 @@ import Link from 'next/link';
 const HomePage = () => {
   return (
     <div>
-      <h1>Welcome to My Firebase Auth App</h1>
+      <h1>Authentication project</h1>
       <nav>
         <ul>
           <li>
